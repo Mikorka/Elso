@@ -1,2 +1,1 @@
-# Elso
-## Életem első Github-os munkája. :) (uwu)
+# Elso Weboldal
